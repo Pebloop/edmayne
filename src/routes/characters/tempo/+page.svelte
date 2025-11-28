@@ -1,7 +1,7 @@
 <script>
 </script>
 
-<div class="container mx-auto p-4 flex justify-center items-start flex-wrap">
+<div class="container mx-auto p-4 flex justify-center items-start flex-wrap page">
 	<div class="w-full md:w-1/2 p-2 bg-white rounded-lg shadow-md">
 		<h2 class="text-2xl font-bold mb-2">Tempo Light</h2>
 

@@ -1,14 +1,14 @@
 @import 'tailwindcss';
 
-p {
+.page p {
   text-indent: 1.5em;
 }
 
-h2 {
+.page h2 {
   @apply text-2xl font-bold mt-6 mb-4;
 }
 
-h2::after {
+.page h2::after {
   content: '';
   display: block;
   width: 100%;
@@ -17,11 +17,11 @@ h2::after {
   margin-top: 8px;
 }
 
-h3 {
+.page h3 {
   @apply text-xl font-semibold mt-5 mb-3;
 }
 
-h3::after {
+.page h3::after {
   content: '';
   display: block;
   width: 100%;

@@ -87,7 +87,7 @@
 
 		<li class="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
 			<a href="/characters/kuro" class="flex flex-row">
-				<img src="/characters/kuro/icon.png" alt="Kuro Light" class="object-cover rounded h-40" />
+				<img src="/characters/tempo/icon.png" alt="Kuro Light" class="object-cover rounded h-40" />
 				<div class="p-6">
 					<h2 class="text-2xl font-bold mb-2">Kuro Light</h2>
 					<p class="text-gray-700 mb-4">The personal servant of Tempo.</p>
@@ -97,7 +97,7 @@
 
 		<li class="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
 			<a href="/characters/shiro" class="flex flex-row">
-				<img src="/characters/shiro/icon.png" alt="Shiro" class="object-cover rounded h-40" />
+				<img src="/characters/tempo/icon.png" alt="Shiro" class="object-cover rounded h-40" />
 				<div class="p-6">
 					<h2 class="text-2xl font-bold mb-2">Shiro</h2>
 					<p class="text-gray-700 mb-4">The chief of the rebellion.</p>

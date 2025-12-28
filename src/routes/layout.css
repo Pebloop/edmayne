@@ -29,3 +29,27 @@
   background-color: gray;
   margin-top: 6px;
 }
+
+.page ul {
+  @apply list-disc list-inside my-4;
+}
+
+.page ol {
+  @apply list-decimal list-inside my-4;
+}
+
+.page blockquote {
+  @apply border-l-4 border-gray-400 pl-4 italic my-4;
+}
+
+.page code {
+  @apply bg-gray-100 px-1 py-0.5 rounded;
+}
+
+.page a {
+  @apply text-blue-600;
+}
+
+.page a:hover {
+  @apply text-blue-800 underline;
+}
